@@ -1,30 +1,30 @@
-# Shuttle Service Documentation
+# Shuttle Service
 
 ## Overview
+The shuttle service provides a convenient transportation option for NEDUET students and staff. It operates on a fixed schedule covering key points around the campus and nearby areas.
 
-This document outlines the shuttle service operations, schedules, and policies.
+## Shuttle Points
+- Main Gate
+- Library
+- Computer Science Department
+- Electrical Engineering Department
+- Mechanical Engineering Department
+- Civil Engineering Department
+- Student Hostel
+- Faculty Hostel
 
-## Shuttle Routes
-
-- Route 1: Downtown to Uptown
-- Route 2: Airport to City Center
-- Route 3: University Campus Loop
+## Routes
+- Route 1: Main Gate -> Library -> Computer Science Department -> Electrical Engineering Department -> Main Gate
+- Route 2: Main Gate -> Mechanical Engineering Department -> Civil Engineering Department -> Student Hostel -> Faculty Hostel -> Main Gate
 
 ## Schedule
-
-- Weekdays: 6:00 AM to 10:00 PM
-- Weekends: 8:00 AM to 8:00 PM
-
-## Policies
-
-- Masks are required at all times.
-- Priority seating for seniors and disabled individuals.
-- No eating or drinking on the shuttle.
+- Morning Shift: 7:00 AM - 11:00 AM
+- Afternoon Shift: 1:00 PM - 5:00 PM
+- Evening Shift: 6:00 PM - 10:00 PM
 
 ## Contact
-
-For inquiries, contact shuttle@service.com or call 123-456-7890.
+For inquiries or feedback, contact the shuttle service office at shuttle@neduet.edu.pk or call +92-21-12345678.
 
 ---
 
-*This document is maintained by the Shuttle Service Department.*
+More detailed content is provided in the attached file.
